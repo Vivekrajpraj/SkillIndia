@@ -52,7 +52,7 @@ const slideBackward = ()=>{
                             <span>Gaziyabad, India</span>
                         </div>
                     </div>
-                    <p>Skill India College offers top education with practical skills, supportive faculty, modern facilities, and strong industry ties. It prepares students for careers through placements</p>
+                    <p>Skill India College offers top education with practical skills,good faculty, modern facilities, and strong industry ties. It prepares students for careers through placements</p>
                 </div>
             </li>
             <li>
@@ -64,7 +64,7 @@ const slideBackward = ()=>{
                             <span>Jaipur, India</span>
                         </div>
                     </div>
-                    <p>"SKILL INDIA College has equipped me with practical skills and Latest  industry knowledge. The supportive environment and excellent facilities have prepared me effectively for a placement in good Company"</p>
+                    <p>"SKILL INDIA College has equipped me with practical Knowledge and Latest  industry knowledge. The supportive environment and excellent facilities have prepared me effectively for a placement in good Company"</p>
                 </div>
             </li>
             <li>
