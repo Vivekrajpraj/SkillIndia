@@ -52,7 +52,7 @@ const slideBackward = ()=>{
                             <span>Gaziyabad, India</span>
                         </div>
                     </div>
-                    <p>Skill India College offers top-notch education with practical skills, supportive faculty, modern facilities, and strong industry ties. It prepares students effectively for careers through internships and placements. </p>
+                    <p>Skill India College offers top-notch education with practical skills, supportive faculty, modern facilities, and strong industry ties. It prepares students effectively for careers through placements. </p>
                 </div>
             </li>
             <li>
