@@ -76,7 +76,7 @@ const slideBackward = ()=>{
                             <span>Jammu & Kashmir ,India</span>
                         </div>
                     </div>
-                    <p>"SKILL INDIA College offers exceptional education with practical learning opportunities and supportive faculty. Its modern facilities and industry connections ensure a well-rounded preparation for future endeavors."</p>
+                    <p>"SKILL INDIA College offers exceptional education with practical learning opportunities and supportive faculty. Its modern facilities and industry connections "</p>
                 </div>
             </li>
         </ul>
